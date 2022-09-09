@@ -1,0 +1,11 @@
+scatter|750|300|500|10000
+Red-Premium|2000|1000|2500|5000
+Pink-Premium|3000|250|1000|2500
+Green-Premium|4000|200|500|1500
+Blue-Premium|5000|150|200|1200
+Red-Low|6000|100|150|1000
+Pink-Low|7000|80|120|800
+Green-Low|8000|50|100|500
+Blue-Low|9000|40|90|400
+Yellow-Low|10000|25|75|200
+Multiplier|2000|0|0|0
